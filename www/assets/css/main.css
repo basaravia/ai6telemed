@@ -105,7 +105,7 @@
 	}
 
 	body {
-		background: #f5f5f5;
+		background: #DAE8FC;
 	}
 
 	body, input, select, textarea {
@@ -123,7 +123,7 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #e89980;
+		color: #62CAB6;
 		text-decoration: none;
 	}
 
@@ -2018,7 +2018,7 @@
 	}
 
 	header p {
-		color: #999;
+		color: #888;
 		position: relative;
 		margin: 0 0 1.5em 0;
 		font-style: italic;
@@ -2056,7 +2056,7 @@
 		header.major p {
 			display: inline-block;
 			border-top: solid 2px #e5e5e5;
-			color: #777;
+			color: #555;
 			margin: 1.5em 0 0 0;
 			padding: 1.5em 0 0 0;
 			font-style: normal;
@@ -2765,14 +2765,14 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background-color: #737373;
+			background-color: #35ACE1;
 		}
 
 		input[type="submit"]:active,
 		input[type="reset"]:active,
 		input[type="button"]:active,
 		.button:active {
-			background-color: #595959;
+			background-color: #3276BC;
 		}
 
 		input[type="submit"].icon,
@@ -2827,7 +2827,7 @@
 			input[type="reset"].alt:hover,
 			input[type="button"].alt:hover,
 			.button.alt:hover {
-				background-color: #f8f8f8;
+				background-color: #62CAB6;
 			}
 
 			input[type="submit"].alt:active,
@@ -2848,7 +2848,7 @@
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #e89980;
+			background-color: #62CAB6;
 			color: #ffffff !important;
 		}
 
@@ -3129,7 +3129,7 @@
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span, .dropotron li:hover > a, .dropotron li:hover > span {
-				background: #e89980;
+				background: #62CAB6;
 				color: #ffffff;
 			}
 
@@ -3304,7 +3304,7 @@
 
 	#cta {
 		/* background: #e89980; */
-		background: #4040bf;
+		background: #00458C;
 		color: #f9e6df;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
@@ -3327,7 +3327,7 @@
 			box-shadow: none;
 			background: #fff;
 			/* color: #e89980; */
-			color: #4040bf
+			color: #00458C
 		}
 
 		#cta input[type="text"],
@@ -3588,7 +3588,7 @@
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: #2b2b2b;
+				background: #00458C;
 				color: #bbb;
 			}
 
